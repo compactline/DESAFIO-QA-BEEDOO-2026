@@ -11,5 +11,10 @@ Cadastro de Curso especifico, Listagem dos Cursos Cadastrados, Informações per
 
 Quais pontos do sistema você considera mais críticos para teste?
 Após o curso cadastrado o mesmo não está gerando link para exibir as informações cadastradas do respectivo curso. 
-Validação dos campos, o sistemas está aceitando qualquer tipo de informação em qualquer campo, e até mesmo criar curso sem ser preencido. 
+Validação dos campos, o sistemas está aceitando qualquer tipo de informação em qualquer campo, e até mesmo criar curso sem ser preencido.
+
+
+
+
+
 
